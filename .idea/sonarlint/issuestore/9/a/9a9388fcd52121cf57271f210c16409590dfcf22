@@ -1,0 +1,100 @@
+
+n	java:S117ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø­±§8®‰©ƒ‚2
+c
+java:S1124¾"EReorder the modifiers to comply with the Java Language Specification.(¸‰†·8®‰©ƒ‚2
+’
+java:S1319o"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(á½¯øûÿÿÿÿ8®‰©ƒ‚2
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ü„ê!8Ã«ƒ‚2
+[	java:S106ñ"9Replace this use of System.out or System.err by a logger.(‰ü”Öøÿÿÿÿ8®‰©ƒ‚2
+n	java:S117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÏ³ô8®‰©ƒ‚2
+h
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ã¤Ò€ùÿÿÿÿ8®‰©ƒ‚2
+^	java:S125‘"<This block of commented-out lines of code should be removed.(Îä¾†øÿÿÿÿ8®‰©ƒ‚2
+s	java:S117ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à¸âÌüÿÿÿÿ8®‰©ƒ‚2
+X	java:S125g"<This block of commented-out lines of code should be removed.(ŠÖò8®‰©ƒ‚2
+q
+java:S1602Ç"SRemove useless curly braces around statement and then remove useless return keyword(ÿö÷Š8®‰©ƒ‚2
+Y	java:S125ô"<This block of commented-out lines of code should be removed.(¹«ïè8§ùåä2
+Š
+java:S1319ğ"lThe type of the "A" object should be an interface such as "List" rather than the implementation "ArrayList".(Ø­±§8®‰©ƒ‚2
+s	java:S117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ¨İ¤ÿÿÿÿÿ8®‰©ƒ‚2
+
+java:S1319‰"lThe type of the "A" object should be an interface such as "List" rather than the implementation "ArrayList".(ÿøÑÿÿÿÿÿ8®‰©ƒ‚2
+M
+java:S3740"/Provide the parametrized type for this generic.(öğ©¼8®‰©ƒ‚2
+s	java:S117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿøÑÿÿÿÿÿ8®‰©ƒ‚2
+n	java:S117¾"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸‰†·8®‰©ƒ‚2
+
+java:S1319¾"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¸‰†·8®‰©ƒ‚2
+n	java:S117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µüÜÑ8®‰©ƒ‚2
+s	java:S117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åİÿ¨øÿÿÿÿ8®‰©ƒ‚2
+n	java:S117¤"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íê¸Â8®‰©ƒ‚2
+n	java:S117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µüÜÑ8®‰©ƒ‚2
+^	java:S125"<This block of commented-out lines of code should be removed.(ƒœ¾ùùÿÿÿÿ8®‰©ƒ‚2
+r	java:S117o"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á½¯øûÿÿÿÿ8®‰©ƒ‚2
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¤Ò€ùÿÿÿÿ8®‰©ƒ‚2
+n	java:S117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÏ³ô8®‰©ƒ‚2
+Y	java:S125ñ"<This block of commented-out lines of code should be removed.(ùÂŸ™8®‰©ƒ‚2
+Š
+java:S1319¤"lThe type of the "A" object should be an interface such as "List" rather than the implementation "ArrayList".(íê¸Â8®‰©ƒ‚2
+s	java:S117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ó…ßÿÿÿÿÿ8®‰©ƒ‚2
+^
+java:S1854§";Remove this useless assignment to local variable "window1".(ïùÿÿÿÿ8®‰©ƒ‚2
+D
+java:S1481«"&Remove this unused "x" local variable.(ô‰©Ù8®‰©ƒ‚2
+O
+java:S1481§",Remove this unused "window1" local variable.(ïùÿÿÿÿ8®‰©ƒ‚2
+s	java:S117ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à¸âÌüÿÿÿÿ8®‰©ƒ‚2
+Y	java:S125ë"<This block of commented-out lines of code should be removed.(ª“†Ã8®‰©ƒ‚2
+X
+java:S1854·"5Remove this useless assignment to local variable "i".(ÍĞÇ³øÿÿÿÿ8®‰©ƒ‚2
+—
+java:S1319Å"tThe type of the "intervals" object should be an interface such as "List" rather than the implementation "ArrayList".(šäÌ—ıÿÿÿÿ8®‰©ƒ‚2
+n	java:S117ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶¼šª8®‰©ƒ‚2
+n	java:S117à"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Û³8®‰©ƒ‚2
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ÜÈ²8®‰©ƒ‚2
+X	java:S125l"<This block of commented-out lines of code should be removed.(¹ïÂ¡8®‰©ƒ‚2
+h
+java:S1124‰"EReorder the modifiers to comply with the Java Language Specification.(ÿøÑÿÿÿÿÿ8®‰©ƒ‚2
+V	java:S106ì"9Replace this use of System.out or System.err by a logger.(³ÎÄò8®‰©ƒ‚2
+“
+java:S1319Å"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(šäÌ—ıÿÿÿÿ8®‰©ƒ‚2
+]	java:S1257"<This block of commented-out lines of code should be removed.(•ŒÒøÿÿÿÿ8®‰©ƒ‚2
+W
+java:S4973«"9Use the "equals" method if value comparison was intended.(ù¦ˆÈ8®‰©ƒ‚2
+
+java:S1319o"lThe type of the "A" object should be an interface such as "List" rather than the implementation "ArrayList".(á½¯øûÿÿÿÿ8®‰©ƒ‚2
+n	java:S117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸çäÍ8®‰©ƒ‚2
+s	java:S117¿"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û³‚Ìÿÿÿÿÿ8®‰©ƒ‚2
+Y	java:S125’"<This block of commented-out lines of code should be removed.(â°ãÚ8®‰©ƒ‚2
+u	java:S135~"YReduce the total number of break and continue statements in this loop to use at most one.(»³½‹8®‰©ƒ‚2
+W	java:S125;"<This block of commented-out lines of code should be removed.(‹é¬F8®‰©ƒ‚2
+
+java:S1319ğ"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ø­±§8®‰©ƒ‚2
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Íïõ8®‰©ƒ‚2
+Š
+java:S1319¾"lThe type of the "A" object should be an interface such as "List" rather than the implementation "ArrayList".(¸‰†·8®‰©ƒ‚2
+R
+java:S3740ä"/Provide the parametrized type for this generic.(ÃÚ«Çùÿÿÿÿ8®‰©ƒ‚2
+a
+java:S2184É"CCast one of the operands of this subtraction operation to a "long".(ÎØ÷Æ8®‰©ƒ‚2
+r	java:S117o"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á½¯øûÿÿÿÿ8®‰©ƒ‚2
+Š
+java:S1319à"lThe type of the "A" object should be an interface such as "List" rather than the implementation "ArrayList".(¯Û³8®‰©ƒ‚2
+M
+java:S3740"/Provide the parametrized type for this generic.(»ø‚¿8®‰©ƒ‚2
+s	java:S117Ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÙ¡Øúÿÿÿÿ8®‰©ƒ‚2
+]	java:S125K"<This block of commented-out lines of code should be removed.(œ¯şÿÿÿÿ8®‰©ƒ‚2
+Y	java:S125é"<This block of commented-out lines of code should be removed.(ÀñÅü8®‰©ƒ‚2
+9
+java:S3626à"Remove this redundant jump.(ûÁİ…8®‰©ƒ‚2
+^	java:S125î"<This block of commented-out lines of code should be removed.(µìøÿÿÿÿ8®‰©ƒ‚2
+s	java:S117ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à¸âÌüÿÿÿÿ8®‰©ƒ‚2
+S
+java:S1854«"5Remove this useless assignment to local variable "x".(ô‰©Ù8®‰©ƒ‚2
+Š
+java:S1319˜"lThe type of the "A" object should be an interface such as "List" rather than the implementation "ArrayList".(¸çäÍ8®‰©ƒ‚2
+n	java:S117Û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ÔØ¦8®‰©ƒ‚2
+S
+java:S1854¨"5Remove this useless assignment to local variable "i".(¾¶ƒ¯8®‰©ƒ‚2
+n	java:S117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸çäÍ8®‰©ƒ‚2

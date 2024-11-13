@@ -1,0 +1,31 @@
+
+X	java:S125A"<This block of commented-out lines of code should be removed.(æ•Şå8Îúì†Í1
+]	java:S1258"<This block of commented-out lines of code should be removed.(Õ™Ÿøıÿÿÿÿ8Îúì†Í1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Äá™ùÿÿÿÿ8õßÌÍ1
+’
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(†Äá™ùÿÿÿÿ8õßÌÍ1
+s	java:S117Ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’îÆàüÿÿÿÿ8âìı…Í1
+s	java:S117Ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’îÆàüÿÿÿÿ8âìı…Í1
+X	java:S125G"<This block of commented-out lines of code should be removed.(ÔäÂˆ8Îúì†Í1
+V
+java:S1854º"8Remove this useless assignment to local variable "mods".(ßÁÑ¨8âìı…Í1
+Y
+java:S1854M"7Remove this useless assignment to local variable "ans".(”ÆšÚşÿÿÿÿ8âìı…Í1
+c
+java:S1124õ"EReorder the modifiers to comply with the Java Language Specification.(àÜÈ8âìı…Í1
+]	java:S1254"<This block of commented-out lines of code should be removed.(¨ñ×Äşÿÿÿÿ8Îúì†Í1
+‹
+java:S2234„"hParameters to findMedianSortedArrays have the same names but not the same order as the method arguments.(—Ö Ãûÿÿÿÿ8âìı…Í1
+G
+java:S1481º")Remove this unused "mods" local variable.(ßÁÑ¨8âìı…Í1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Äá™ùÿÿÿÿ8õßÌÍ1
+s	java:S117Ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£¿´âÿÿÿÿÿ8âìı…Í1
+s	java:S117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹·Ğøÿÿÿÿ8âìı…Í1
+s	java:S117Ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’îÆàüÿÿÿÿ8âìı…Í1
+
+java:S1319"lThe type of the "A" object should be an interface such as "List" rather than the implementation "ArrayList".(†Äá™ùÿÿÿÿ8õßÌÍ1
+
+java:S1319Ï"lThe type of the "C" object should be an interface such as "List" rather than the implementation "ArrayList".(’îÆàüÿÿÿÿ8âìı…Í1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ë±“ÿÿÿÿÿ8èàÒÍ1
+Y	java:S125Û"<This block of commented-out lines of code should be removed.(şŸ¤8âìı…Í1

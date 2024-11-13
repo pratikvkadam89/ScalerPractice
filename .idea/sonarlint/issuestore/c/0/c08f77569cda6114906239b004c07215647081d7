@@ -1,0 +1,17 @@
+
+J
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8¡ı²„º1
+m	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡ÿ „8”¿„º1
+N
+java:S1481*"1Remove this unused "sizeOfPrimes" local variable.(—Ù”ğ8”¿„º1
+C
+java:S1481C"&Remove this unused "n" local variable.(¥»ƒ·8¸êƒÃº1
+R
+java:S1854C"5Remove this useless assignment to local variable "n".(¥»ƒ·8¸êƒÃº1
+]
+java:S1854*"@Remove this useless assignment to local variable "sizeOfPrimes".(—Ù”ğ8”¿„º1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ö¨¶Ñşÿÿÿÿ8à„º1
+l	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âäØt8¸êƒÃº1
+l	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âäØt8¸êƒÃº1
+l	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âäØt8¸êƒÃº1

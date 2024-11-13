@@ -1,0 +1,9 @@
+
+m	java:S117r"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬•íž8¤ž¬‚Á1
+^
+java:S1126n"AReplace this if-then-else statement by a single return statement.(ÙÉ÷Ã8¤ž¬‚Á1
+m	java:S117J"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É‚ÍÐ8¤ž¬‚Á1
+m	java:S117J"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É‚ÍÐ8¤ž¬‚Á1
+’
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÆïÌóýÿÿÿÿ8©ª÷úÈ1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆïÌóýÿÿÿÿ8©ª÷úÈ1

@@ -1,0 +1,7 @@
+
+\
+java:S1118":Add a private constructor to hide the implicit public one.(É¦‡êÿÿÿÿÿ8‘È¡ƒ‚2
+^
+java:S1126B"AReplace this if-then-else statement by a single return statement.(œş‡ó8©æƒ‚2
+t	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÌµĞ·8µÓ§ƒ‚2
+t	java:S127 "XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8ŸëÊƒ‚2

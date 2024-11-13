@@ -1,0 +1,13 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÎØµÏıÿÿÿÿ
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×¿ó…8¤é„¾‹2
+\
+java:S1118":Add a private constructor to hide the implicit public one.(õ¹ãÕşÿÿÿÿ8Šô…¾‹2
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ñïŞ—üÿÿÿÿ8¥ê‡¾‹2
+‰
+java:S1319"lThe type of the "A" object should be an interface such as "List" rather than the implementation "ArrayList".(×¿ó…8¤é„¾‹2
+‰
+java:S1319"lThe type of the "B" object should be an interface such as "List" rather than the implementation "ArrayList".(×¿ó…8¤é„¾‹2
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×¿ó…8¤é„¾‹2
+
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(×¿ó…8¤é„¾‹2

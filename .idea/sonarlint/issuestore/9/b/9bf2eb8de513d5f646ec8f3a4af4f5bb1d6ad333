@@ -1,0 +1,20 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„å¦İ8„ì˜½ä1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„å¦İ8„ì˜½ä1
+X	java:S125:"<This block of commented-out lines of code should be removed.(Åª“Å8Åú¼½ä1
+]	java:S125+"<This block of commented-out lines of code should be removed.(óªÁ„ıÿÿÿÿ8„ì˜½ä1
+F
+java:S1481>")Remove this unused "mods" local variable.(ßÁÑ¨8„ì˜½ä1
+M
+java:S14812"+Remove this unused "groups" local variable.(Ÿ™òøÿÿÿÿ8Åú¼½ä1
+L
+java:S1481"/Remove this unused "noOfPeople" local variable.(“Ìğ™8„ì˜½ä1
+[
+java:S1854">Remove this useless assignment to local variable "noOfPeople".(“Ìğ™8„ì˜½ä1
+\
+java:S18542":Remove this useless assignment to local variable "groups".(Ÿ™òøÿÿÿÿ8Åú¼½ä1
+U
+java:S1854>"8Remove this useless assignment to local variable "mods".(ßÁÑ¨8„ì˜½ä1
+`
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(ó»™ûÿÿÿÿ8ÿÁ™½ä1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„å¦İ8„ì˜½ä1

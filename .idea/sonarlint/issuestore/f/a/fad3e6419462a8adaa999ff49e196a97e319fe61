@@ -1,0 +1,18 @@
+
+8
+java:S3626y"Remove this redundant jump.(ÉŠ©ƒ8ş±´í€2
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÀÀ¥8«ŞÁí€2
+m
+java:S1149d"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¨ÊŸ–8ş±´í€2
+m
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ª¤ø€8«ŞÁí€2
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÿ°üÿÿÿÿ8ş±´í€2
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(® Œşÿÿÿÿ8«ŞÁí€2
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÿ°üÿÿÿÿ8¾„àÁ€2
+8
+java:S3626"Remove this redundant jump.(ÉŠ©ƒ8ş±´í€2
+u	java:S135h"YReduce the total number of break and continue statements in this loop to use at most one.(ú¨¨8¾„àÁ€2
+r	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à´‘êøÿÿÿÿ8ş±´í€2
+m
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ƒÕ£Ğ8«ŞÁí€2

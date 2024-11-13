@@ -1,0 +1,7 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€òüéıÿÿÿÿ8Âˆ—æÀ1
+
+java:S1319"lThe type of the "A" object should be an interface such as "List" rather than the implementation "ArrayList".(ÔÙÿùùÿÿÿÿ8Âˆ—æÀ1
+W
+java:S1118":Add a private constructor to hide the implicit public one.(âíòû8Âˆ—æÀ1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÙÿùùÿÿÿÿ8Âˆ—æÀ1

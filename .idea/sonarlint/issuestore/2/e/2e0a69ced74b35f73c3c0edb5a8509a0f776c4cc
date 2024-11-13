@@ -1,0 +1,13 @@
+
+W
+java:S1191"5Use classes from the Java API instead of Sun classes.(ôœ¦Ôûÿÿÿÿ8Š—¤Ð™2
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Æ¾Äßùÿÿÿÿ
+X	java:S125-"<This block of commented-out lines of code should be removed.(«Ø÷£8ð¤µÍ™2
+U	java:S106S"9Replace this use of System.out or System.err by a logger.(üóØ¥8ñ ÄÏ™2
+Z	java:S106X"9Replace this use of System.out or System.err by a logger.(‡ôæ·øÿÿÿÿ8±øÄÏ™2
+`
+java:S1117f"CRename "winningStrategy" which hides the field declared at line 21.(¯’ùÓ8¥Ö¤¹®2
+[
+java:S1117g">Rename "gameStatus" which hides the field declared at line 16.(ÂÑçÞ8›¸ÙÐ™2
+W
+java:S1128"5Remove this unused import 'sun.awt.WindowIDProvider'.(ôœ¦Ôûÿÿÿÿ8¦¬¥¹®2

@@ -1,0 +1,7 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(»ª™µøÿÿÿÿ8äéÈŒ2
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ˆÿÅŒ2
+D
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8„ä‹Œ2
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İËÉşüÿÿÿÿ

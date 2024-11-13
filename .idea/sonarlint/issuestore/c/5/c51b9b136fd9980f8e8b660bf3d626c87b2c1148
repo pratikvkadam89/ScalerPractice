@@ -1,0 +1,13 @@
+
+U
+java:S1118":Add a private constructor to hide the implicit public one.(‚³ý¾ÿÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ù²
+M
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿ
+V	java:S125!"<This block of commented-out lines of code should be removed.(òÌ»¦ûÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ÉÁ’¬þÿÿÿÿ
+V	java:S125+"<This block of commented-out lines of code should be removed.(²Ýëþùÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Â›Ò›úÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(±Ðïî
+Q	java:S125'"<This block of commented-out lines of code should be removed.(¶¦®å
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³ˆýª

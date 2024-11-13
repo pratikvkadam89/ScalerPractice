@@ -1,0 +1,7 @@
+
+U
+java:S1128":Remove this unused import 'java.util.function.BiConsumer'.(¿ÍÅøÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³ˆıª
+U
+java:S1118":Add a private constructor to hide the implicit public one.(°¨¹ûüÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Š‹Ëï

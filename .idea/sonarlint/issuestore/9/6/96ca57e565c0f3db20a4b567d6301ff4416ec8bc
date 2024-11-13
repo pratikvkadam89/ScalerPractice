@@ -1,0 +1,12 @@
+
+[	java:S106§"9Replace this use of System.out or System.err by a logger.(­×èÅüÿÿÿÿ8“ˆ†÷á1
+s	java:S117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì¬şùÿÿÿÿ8“ˆ†÷á1
+X	java:S125T"<This block of commented-out lines of code should be removed.(ÓââÈ8“ˆ†÷á1
+X	java:S125Q"<This block of commented-out lines of code should be removed.(ëÔì8“ˆ†÷á1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ööìÿıÿÿÿÿ8•Ä†÷á1
+s	java:S117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì¬şùÿÿÿÿ8“ˆ†÷á1
+s	java:S117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì¬şùÿÿÿÿ8“ˆ†÷á1
+l	java:S1179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦‹ÎR8“ˆ†÷á1
+N
+java:S1128"1Remove this unused import 'java.math.BigDecimal'.(êêŠ8ú¾üÀÒ1
+r	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éøÌüúÿÿÿÿ8•Ä†÷á1

@@ -1,0 +1,11 @@
+
+
+java:S1319"lThe type of the "A" object should be an interface such as "List" rather than the implementation "ArrayList".(ÔÙÿùùÿÿÿÿ8¦˜Ë²Ì1
+`
+java:S1155+">Use isEmpty() to check whether the collection is empty or not.(­€Ôˆùÿÿÿÿ8«ñÌ²Ì1
+]	java:S125'"<This block of commented-out lines of code should be removed.(„Í¡‚şÿÿÿÿ8¦˜Ë²Ì1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÙÿùùÿÿÿÿ8¦˜Ë²Ì1
+Z
+java:S1155#">Use isEmpty() to check whether the collection is empty or not.(×Ùv8«ñÌ²Ì1
+W
+java:S1118":Add a private constructor to hide the implicit public one.(ôŠÕ²8‹õÍ²Ì1

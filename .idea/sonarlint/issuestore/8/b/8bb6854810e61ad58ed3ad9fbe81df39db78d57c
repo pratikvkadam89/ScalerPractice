@@ -1,0 +1,19 @@
+
+>
+java:S1481#")Remove this unused "num2" local variable.(•Øä
+f	java:S117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”›¶Î
+f	java:S117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€‚Çð
+M
+java:S1854#"8Remove this useless assignment to local variable "num2".(•Øä
+P
+java:S1854"5Remove this useless assignment to local variable "i".(Ú«À¢üÿÿÿÿ
+f	java:S1174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì¹‘ú
+K
+java:S1854)"5Remove this useless assignment to local variable "i".(Þ¼Þ¢
+V	java:S125_"<This block of commented-out lines of code should be removed.(“·Ø”ûÿÿÿÿ
+Q	java:S125Z"<This block of commented-out lines of code should be removed.(ž©†ö
+S
+java:S1854""8Remove this useless assignment to local variable "num1".(šë÷Ãýÿÿÿÿ
+D
+java:S1481"")Remove this unused "num1" local variable.(šë÷Ãýÿÿÿÿ
+]	java:S125	"<This block of commented-out lines of code should be removed.(€£ž¸øÿÿÿÿ8Ê£†ß1

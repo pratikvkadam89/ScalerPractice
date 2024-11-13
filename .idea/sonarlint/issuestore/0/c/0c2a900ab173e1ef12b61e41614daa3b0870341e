@@ -1,0 +1,17 @@
+
+u
+java:S16024"SRemove useless curly braces around statement and then remove useless return keyword(’ºô›şÿÿÿÿ8îŞ©¢â1
+X	java:S125V"<This block of commented-out lines of code should be removed.(ÃÁÂ8îŞ©¢â1
+U	java:S106T"9Replace this use of System.out or System.err by a logger.(»´ñš8îŞ©¢â1
+W
+java:S1854":Remove this useless assignment to local variable "result".(‰ºùÄ8îŞ©¢â1
+j	java:S100y"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Éÿ8îŞ©¢â1
+Z	java:S106O"9Replace this use of System.out or System.err by a logger.(¾ùê¤üÿÿÿÿ8îŞ©¢â1
+Z	java:S106\"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8îŞ©¢â1
+Z
+java:S1197."8Move the array designator from the variable to the type.(Ò—ãÂúÿÿÿÿ8îŞ©¢â1
+H
+java:S1481"+Remove this unused "result" local variable.(‰ºùÄ8îŞ©¢â1
+U	java:S106U"9Replace this use of System.out or System.err by a logger.(×•œ²8îŞ©¢â1
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰ºùÄ8îŞ©¢â1

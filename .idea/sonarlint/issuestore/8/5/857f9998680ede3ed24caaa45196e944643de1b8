@@ -1,0 +1,8 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(çÂÏ8­Â«œˆ2
+1
+java:S1700"Rename field "store"(‚Ç8ø¢¤›ˆ2
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Úï¦°ÿÿÿÿÿ8‚ª­œˆ2
+
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÑáßÌ8¬§µœˆ2
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÎÃ¿
